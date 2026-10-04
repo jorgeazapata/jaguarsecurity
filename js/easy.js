@@ -14,6 +14,10 @@ const productos = [
         precio: "$50.000",
         imagen: "imgs/easy3.jpeg",
         link: "imgs/easy3.jpeg"
+    },
+     {
+        imagen: "imgs/easy4.jpeg",
+        link: "imgs/easy4.jpeg"
     }
 ];
 
