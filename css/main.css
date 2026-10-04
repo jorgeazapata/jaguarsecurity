@@ -65,7 +65,10 @@ footer{
     background:#101010;
 }
 .producto img {
-  width: 150px;       /* Ajusta este valor al tamaño deseado */
-  height: auto;        /* Mantiene la proporción de la imagen */
+  width: 200px;       /* Ajusta este valor al tamaño deseado */
+  height: 150px;        /* Mantiene la proporción de la imagen */
   object-fit: cover;   /* Asegura que no se distorsione */
+}
+h2{
+    color: #FFD54A;
 }
