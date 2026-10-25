@@ -6,8 +6,8 @@ const productos = [
     {
         nombre: "JAGUAR 2.0 Con encendido desde el control",
         precio: "$80.000",
-        imagen: "imgs/2_01.jpeg",
-        link: "imgs/2_01.jpeg"
+        imagen: "imgs/2_01.jpg",
+        link: "imgs/2_01.jpg"
     },
     {
         nombre: "JAGUAR WIRELESS CONNECTION (Inalámbrica)",
