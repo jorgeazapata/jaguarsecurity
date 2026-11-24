@@ -1,7 +1,7 @@
 const productos = [
     {
         nombre: "JAGUAR HELMET HEADPHONES",
-        precio: " AGOTADO, EXITO EN VENTAS",
+        precio: "$35.000",
         imagen: "imgs/helmethd0_1.jpg",
         link: "helmetheadphones.html"
     },
