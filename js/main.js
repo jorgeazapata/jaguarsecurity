@@ -2,7 +2,7 @@ const productos = [
     {
         nombre: "COMBO NAVIDEÑO (ALARMA+AURICULAR)",
         precio: "$85.000",
-        imagen: "imgs/combonavideno.jpg",
+        imagen: "imgs/combonavideno.png",
         link: "combonavideno.html"
     },
     {
