@@ -1,5 +1,11 @@
 const productos = [
     {
+        nombre: "COMBO NAVIDEÑO (ALARMA+AURICULAR)",
+        precio: "$85.000",
+        imagen: "imgs/combonavideno.jpg",
+        link: "combonavideno.html"
+    },
+    {
         nombre: "JAGUAR HELMET HEADPHONES",
         precio: "$35.000",
         imagen: "imgs/helmethd0_1.jpg",
